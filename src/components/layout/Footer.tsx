@@ -105,18 +105,18 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start space-x-3">
                 <Mail size={18} className="text-[#D32F2F] mt-1" />
-                <span className="text-[#A0A0A0]">contact@gogodigital.media</span>
+                <span className="text-[#A0A0A0]">contact@gogodigitalmedia.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <Phone size={18} className="text-[#D32F2F] mt-1" />
-                <span className="text-[#A0A0A0]">+1 (555) 123-4567</span>
+                <span className="text-[#A0A0A0]">+91 8757047266</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="text-[#D32F2F] mt-1" />
                 <span className="text-[#A0A0A0]">
                   Music District, Creative Avenue
                   <br />
-                  New York, NY 10001
+                  Patna, Bihar 800001, India
                 </span>
               </li>
             </ul>
