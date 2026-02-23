@@ -134,11 +134,11 @@ export default function HeroSection() {
           {/* Stats Bar */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pt-16 max-w-4xl mx-auto">
             <div className="glass p-6 rounded-xl">
-              <div className="text-mono text-4xl font-bold text-[#D32F2F] mb-2">50K+</div>
+              <div className="text-mono text-4xl font-bold text-[#D32F2F] mb-2">20K+</div>
               <div className="text-sm text-[#A0A0A0]">Tracks Distributed</div>
             </div>
             <div className="glass p-6 rounded-xl">
-              <div className="text-mono text-4xl font-bold text-[#D32F2F] mb-2">10K+</div>
+              <div className="text-mono text-4xl font-bold text-[#D32F2F] mb-2">120+</div>
               <div className="text-sm text-[#A0A0A0]">Active Artists</div>
             </div>
             <div className="glass p-6 rounded-xl">
