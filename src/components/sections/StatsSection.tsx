@@ -78,7 +78,7 @@ export default function StatsSection() {
 
         <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="glass p-8 rounded-2xl text-center hover:border-[#D32F2F]/50 transition-all duration-300">
-            <div className="text-mono text-4xl font-bold text-white mb-3">2B+</div>
+            <div className="text-mono text-4xl font-bold text-white mb-3">20M+</div>
             <div className="text-[#A0A0A0]">Total Streams Generated</div>
           </div>
           <div className="glass p-8 rounded-2xl text-center hover:border-[#D32F2F]/50 transition-all duration-300">
