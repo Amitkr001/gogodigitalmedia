@@ -70,8 +70,8 @@ export default function StatsSection() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
-          <AnimatedStat end={50000} label="Tracks Distributed" suffix="+" />
-          <AnimatedStat end={10000} label="Active Artists" suffix="+" />
+          <AnimatedStat end={20000} label="Tracks Distributed" suffix="+" />
+          <AnimatedStat end={120} label="Active Artists" suffix="+" />
           <AnimatedStat end={150} label="Distribution Platforms" suffix="+" />
           <AnimatedStat end={180} label="Countries Reached" suffix="+" />
         </div>
