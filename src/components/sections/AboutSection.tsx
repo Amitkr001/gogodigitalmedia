@@ -95,11 +95,11 @@ export default function AboutSection() {
               <div className="pt-6 space-y-3 border-t border-[#1A1A1A]">
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-[#A0A0A0]">Industry Experience</span>
-                  <span className="text-white font-semibold">10+ Years</span>
+                  <span className="text-white font-semibold">5+ Years</span>
                 </div>
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-[#A0A0A0]">Artists Helped</span>
-                  <span className="text-white font-semibold">10,000+</span>
+                  <span className="text-white font-semibold">120+</span>
                 </div>
                 <div className="flex items-center justify-between text-sm">
                   <span className="text-[#A0A0A0]">Platform Launch</span>
