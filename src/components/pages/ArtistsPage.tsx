@@ -82,10 +82,10 @@ export default function ArtistsPage() {
   ];
 
   const stats = [
-    { icon: Users, value: '10,000+', label: 'Active Artists' },
-    { icon: Music, value: '50,000+', label: 'Tracks Distributed' },
+    { icon: Users, value: '120+', label: 'Active Artists' },
+    { icon: Music, value: '20,000+', label: 'Tracks Distributed' },
     { icon: Globe, value: '180+', label: 'Countries' },
-    { icon: TrendingUp, value: '500M+', label: 'Total Streams' },
+    { icon: TrendingUp, value: '50M+', label: 'Total Streams' },
   ];
 
   return (
