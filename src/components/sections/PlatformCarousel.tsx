@@ -19,6 +19,12 @@ export default function PlatformCarousel() {
     'Anghami',
     'Boomplay',
     'iHeartRadio',
+    'TikTok',
+    'Instagram',
+    'Facebook',
+    'Twitter',
+    'Snapchat',
+    'YouTube',
   ];
 
   // Duplicate for seamless loop
