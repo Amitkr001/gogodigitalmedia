@@ -5,7 +5,7 @@ export default function ArtistsSection() {
     {
       name: 'Bansidhar Chaudhary',
       genre: 'Maithili, Bhojpuri',
-      image: 'https://github.com/user-attachments/assets/87974e4e-a436-4839-8732-22813bd286cb',
+      image: 'https://instasize.com/api/image/e074853725d6cef1e06167ef32d44f3753740b60bfe1747e70b07803a348b97b.jpeg',
       quote: 'GOGO helped me reach listeners in over 50 countries. My streams grew 10x in just 3 months!',
       streams: '2.5M+',
       rating: 5,
@@ -13,7 +13,7 @@ export default function ArtistsSection() {
     {
       name: 'Anil Yadav',
       genre: 'Maithili, Bhojpuri',
-      image: 'https://github.com/user-attachments/assets/7d668099-e5f9-4cab-a757-8f6081dd2fbe',
+      image: 'https://instasize.com/api/image/9acb9ef4b7c79fae841dc1f2815fa36a4dc53f50cb5f34ded64b62a2b4ad0157.jpeg',
       quote: 'The analytics dashboard is incredible. I finally understand where my fans are and how to reach them.',
       streams: '1.8M+',
       rating: 5,
@@ -21,7 +21,7 @@ export default function ArtistsSection() {
     {
       name: 'Rousan Rohi',
       genre: 'Bhojpuri, Maghi',
-      image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&q=80',
+      image: 'https://instasize.com/api/image/58f0a8b839cfaf0e1695904283ec4e797d0ccf4c21327ef23c8f8a176314c525.jpeg',
       quote: 'Transparent, fast, and reliable. GOGO is everything I needed as an independent producer.',
       streams: '3.2M+',
       rating: 5,
@@ -29,7 +29,7 @@ export default function ArtistsSection() {
     {
       name: 'Sannu Kumar',
       genre: 'Maithili',
-      image: 'https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?w=400&q=80',
+      image: 'https://instasize.com/api/image/b08437507e4bf55aedc54e662154520f7c4214ecdd16de2bc0c3232014a079c8.jpeg',
       quote: 'Being on 150+ platforms means my classical fusion music reaches audiences I never imagined possible.',
       streams: '900K+',
       rating: 5,
