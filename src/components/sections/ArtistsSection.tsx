@@ -13,7 +13,7 @@ export default function ArtistsSection() {
     {
       name: 'Anil Yadav',
       genre: 'Maithili, Bhojpuri',
-      image: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&q=80',
+      image: 'https://github.com/user-attachments/assets/7d668099-e5f9-4cab-a757-8f6081dd2fbe',
       quote: 'The analytics dashboard is incredible. I finally understand where my fans are and how to reach them.',
       streams: '1.8M+',
       rating: 5,
