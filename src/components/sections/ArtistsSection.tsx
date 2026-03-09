@@ -5,7 +5,7 @@ export default function ArtistsSection() {
     {
       name: 'Bansidhar Chaudhary',
       genre: 'Maithili, Bhojpuri',
-      image: 'https://images.https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh1wJJHWuG36tOmnJAXCnwXVozk9J3RhXx2kBJVlPWB_hLztwKrzmnj3fu2eaRm9eB04V-r69SBOff1g1RhUJZ6h3fzpxYt8sf2SFqrU&s=10.com/photo-1493225457124-a3eb161ffa5f?w=400&q=80',
+      image: 'https://github.com/user-attachments/assets/87974e4e-a436-4839-8732-22813bd286cb',
       quote: 'GOGO helped me reach listeners in over 50 countries. My streams grew 10x in just 3 months!',
       streams: '2.5M+',
       rating: 5,
